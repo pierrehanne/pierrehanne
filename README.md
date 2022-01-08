@@ -46,3 +46,4 @@ I'm Data Scientist who share my open-source work on data science.
 ### Feel free to connect with me
 <a href="https://www.linkedin.com/in/pierre-hanne-a590b5132/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://medium.com/">![alt text](https://img.shields.io/badge/-Medium-000000?style=plastic&logo=Medium) </a>
+<a href="https://www.kaggle.com/pierrehanne">![alt text](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=Kaggle) </a>

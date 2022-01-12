@@ -1,4 +1,4 @@
-![GitHub-Profile-Banner-08112022](https://user-images.githubusercontent.com/43729077/148640676-5f82b4e4-5f93-4443-8913-8c2c62f9cd98.png)
+![GitHub-Profile-Banner](https://user-images.githubusercontent.com/43729077/149217898-c14f515e-2cfa-4144-82f6-3fafb3c4d7ae.png)
 
 <!-- title only -->
 <h2 align="center">
@@ -19,6 +19,7 @@ I'm Data Scientist who share my open-source work on data science.
 ![](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&logoColor=white&style=flate)
 
 #### Frameworks
+
 <!-- ML Frameworks -->
 ![](https://img.shields.io/badge/-Tensorflow-FF6F00?logo=Tensorflow&logoColor=white&style=flate)
 ![](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white&style=flate)
@@ -38,7 +39,8 @@ I'm Data Scientist who share my open-source work on data science.
 
 ### GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=phanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)<br>
+![](https://komarev.com/ghpvc/?username=phanne&style=flat-square)
 
 ### MyLastest Medium Articles
 [![Medium](https://github-readme-medium.vercel.app/?username=pierre.hanne&limit=5&bg=black&text=white)](https://medium.com/@pierre.hanne)

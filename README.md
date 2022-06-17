@@ -3,10 +3,10 @@
 Hi there 👋
 </h2>
 
-### My Lastest Medium Articles
+### ▶ Recent Medium Articles
 [![Medium](https://github-readme-medium.vercel.app/?username=pierre.hanne&limit=5&bg=black&text=white)](https://medium.com/@pierre.hanne)
 
-### Coding Tools
+### ▶ Coding Tools
 ![](https://img.shields.io/badge/-VsCode-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flate)
 ![](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flate)
 ![](https://img.shields.io/badge/-Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flate)

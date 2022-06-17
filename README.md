@@ -1,10 +1,9 @@
 <!-- title only -->
 <h2 align="center">
-Hi there 👋 <br> 
-I'm Data Scientist who share my open-source work on data science.
+Hi there 👋
 </h2>
 
-### MyLastest Medium Articles
+### My Lastest Medium Articles
 [![Medium](https://github-readme-medium.vercel.app/?username=pierre.hanne&limit=5&bg=black&text=white)](https://medium.com/@pierre.hanne)
 
 ### Coding Tools
@@ -12,7 +11,6 @@ I'm Data Scientist who share my open-source work on data science.
 ![](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flate)
 ![](https://img.shields.io/badge/-Colab-F9AB00?logo=Google%20Colab&logoColor=white&style=flate)
 ![](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flate)
-![](https://img.shields.io/badge/-RStudio-75AADB?logo=RStudio&logoColor=white&style=flate)
 
 ### ▶ GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=phanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)<br>
@@ -20,16 +18,14 @@ I'm Data Scientist who share my open-source work on data science.
 
 ### ▶ Kaggle
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pierrehanne/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pierrehanne/dataset/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pierrehanne/notebook/"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/pierrehanne/discussion/"/>
 </p>
 
 ### ▶ Total Viewer
 ![](https://komarev.com/ghpvc/?username=phanne&style=flat-square)
 
-### Feel free to connect with me
+### Contact
 <a href="https://www.linkedin.com/in/pierre-hanne-a590b5132/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://medium.com/">![alt text](https://img.shields.io/badge/-Medium-000000?style=plastic&logo=Medium) </a>
 <a href="https://www.kaggle.com/pierrehanne">![alt text](https://img.shields.io/badge/-Kaggle-20BEFF?style=plastic&logo=Kaggle) </a>

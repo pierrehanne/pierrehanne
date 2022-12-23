@@ -13,8 +13,3 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=pierrehanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&theme=github_dark&show_icon=True&layout=compact)](https://github.com/pierrehanne)<br>
-
-</h2>
-
-### 📚 My Top 3 Recent Articles
-[![Medium](https://github-readme-medium.vercel.app/?username=pierre.hanne&limit=3&bg=222f2e&text=white)](https://medium.com/@pierre.hanne)

@@ -1,13 +1,51 @@
-<h2 align="center">Hello, world! 🌍</h2>
+<h2 align="center">Hello, World! 🌍</h2>
 
-* 🇫🇷 French engineer working through Data Engineering, Data Science, and MLOps
-* 🌱 Always learning and exploring new technologies
-* ❤️ Enthusiast for piano, basketball, photography, and food
-* 💻 Coding tools: [![](https://img.shields.io/badge/-IntelliJ-000000?logo=IntelliJ-IDEA&logoColor=white&style=flat)](https://www.jetbrains.com/idea/) [![](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VsCode-007ACC?logo=Visual-Studio-Code&logoColor=white&style=flat)](https://code.visualstudio.com/)
-* ☁️ Cloud: [![](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat)](https://aws.amazon.com/) 
+<p align="center">
+  🇫🇷 French engineer working in Data Engineering, Data Science, and MLOps <br>
+  🌱 Constantly learning and exploring new technologies <br>
+  ❤️ Enthusiast for piano, basketball, photography, and food 
+</p>
 
-### 🏭 GitHub Contributions
-<h2 align="left">
+---
 
-[![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=pierrehanne&theme=github_dark&show_icon=True)](https://github.com/pierrehanne)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&theme=github_dark&show_icon=True&layout=compact)](https://github.com/pierrehanne)<br>
+### 💻 Tech Stack & Tools
+
+#### 🛠️ Coding Tools
+[![](https://img.shields.io/badge/-IntelliJ-000000?logo=IntelliJ-IDEA&logoColor=white&style=flat)](https://www.jetbrains.com/idea/) 
+[![](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white&style=flat)](https://www.jetbrains.com/pycharm/) 
+
+#### ☁️ Cloud Technologies
+[![](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white&style=flat)](https://aws.amazon.com/)
+
+#### 🛠️ Other Tools
+[![](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat)](https://www.docker.com/) 
+[![](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&logoColor=white&style=flat)](https://www.terraform.io/)
+
+---
+
+### 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pierrehanne&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" height="180px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&theme=github_dark&layout=compact" alt="Top Languages" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pierrehanne&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+### 🔗 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pierrehanne">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.kaggle.com/pierrehanne">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=flat" alt="Kaggle Badge" />
+  </a>
+</p>
+
+---
+

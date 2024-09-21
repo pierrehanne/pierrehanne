@@ -10,19 +10,26 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Update README.md
+      - name: Update README.md with timestamp
         run: |
-          # Add a timestamp or any update to README.md
-          echo "Last updated: $(date)" >> README.md
+          # Add a more readable timestamp to README.md
+          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')" > README.md
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --exit-code || echo "README has changes"
 
       - name: Commit changes
+        if: steps.changes.outcome == 'failure'
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add README.md
-          git commit -m "Update README.md with the latest timestamp" || echo "No changes to commit"
+          git commit -m "Update README.md - Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')"
 
       - name: Push changes
+        if: steps.changes.outcome == 'failure'
         run: git push

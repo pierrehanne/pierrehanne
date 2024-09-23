@@ -14,22 +14,14 @@ jobs:
 
       - name: Update README.md with timestamp
         run: |
-          # Add a more readable timestamp to README.md
-          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')" > README.md
-
-      - name: Check for changes
-        id: changes
-        run: |
-          git diff --exit-code || echo "README has changes"
+          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')" >> README.md
 
       - name: Commit changes
-        if: steps.changes.outcome == 'failure'
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "actions@github.com"
           git add README.md
-          git commit -m "Update README.md - Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')"
+          git commit -m "Update README.md - Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')" || echo "No changes to commit"
 
       - name: Push changes
-        if: steps.changes.outcome == 'failure'
         run: git push

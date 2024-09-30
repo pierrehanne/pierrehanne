@@ -17,10 +17,6 @@ jobs:
         id: date
         run: echo "CURRENT_DATE=$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
 
-      - name: Update README.md with timestamp
-        run: |
-          echo "Last updated: $(date '+%Y-%m-%d %H:%M:%S %Z')" >> README.md
-
       - name: Replace date in README.md
         run: |
           sed -i '/Last updated:/c\Last updated: ${{ env.CURRENT_DATE }}' README.md

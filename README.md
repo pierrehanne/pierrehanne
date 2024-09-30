@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&theme=github_dark&layout=compact" alt="Top Languages" height="180px" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pierrehanne&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
-
 ---
 
 ### 🔗 Connect with me:

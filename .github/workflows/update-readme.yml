@@ -23,7 +23,7 @@ jobs:
 
       - name: Replace date in README.md
         run: |
-          sed -i "s/Last updated:.*/Last updated: ${{ env.CURRENT_DATE }}/" README.md
+          sed -i "0,/Last updated:.*/s//Last updated: ${{ env.CURRENT_DATE }}/" README.md
 
       - name: Commit changes
         run: |

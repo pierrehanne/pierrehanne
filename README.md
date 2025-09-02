@@ -8,7 +8,6 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierrehanne&theme=dracula&show_icons=true&count_private=true" alt="GitHub Stats" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&theme=dracula&layout=compact" alt="Top Languages"" />
 </div>
 

@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
 
       - name: Set current date
         id: date
@@ -19,7 +19,7 @@ jobs:
 
       - name: Replace date in README.md
         run: |
-          sed -i '/Last updated:/c\Last updated: ${{ env.CURRENT_DATE }}' README.md
+          sed -i '/Today:/c\Today: ${{ env.CURRENT_DATE }}' README.md
 
       - name: Commit changes
         run: |

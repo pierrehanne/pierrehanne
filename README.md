@@ -1,30 +1,34 @@
-<h2 align="center">Hey there, I’m Pierre! 👋🌍</h2>
+<div align="center">
 
-<p align="left">
-  🇫🇷 A French engineer crafting solutions at the crossroads of <strong>Data Engineering</strong>, <strong>Data Science</strong>, and <strong>MLOps</strong><br>
-  🌱 Lifelong learner exploring new tech, tools, and ideas<br>
-</p>
+# Hi, I'm Pierre
 
+**GenAI Domain Lead** — Building AI-powered systems on AWS
 
-### 🧰 Tech Stack
+</div>
 
-|🧑‍💻 Programming Languages | ⚡ Data & Processing | ☁️ Infra & Cloud | 🧠 Training & Experimentation |
-|-------------------------|-------------------------|----------------|-------------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)](https://spark.apache.org/) | [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=Terraform&logoColor=white&style=flat)](https://www.terraform.io/) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | [![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-E6526F?logo=apacheflink&logoColor=white&style=flat)](https://flink.apache.org/) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | [![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)](https://kafka.apache.org/) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+---
+
+### About
+
+| Domain | Focus |
+|--------|-------|
+| **GenAI & ML Engineering** | LLM integration, model serving, RAG pipelines, prompt engineering |
+| **Cloud Architecture** | AWS-centric design, serverless, infrastructure as code |
+| **Data Engineering** | ETL/ELT pipelines, data modeling, real-time & batch processing |
+
+### Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Rust, Scala, Python, TypeScript, JavaScript, SQL, NoSQL |
+| **Infrastructure** | Terraform, Docker, GitHub Actions |
+| **Data** | Apache Spark, Apache Airflow |
 
 
 ---
 
-### 📜 Certifications
+### Infos
 
-| Issuer | Certification |
-|--------|---------------|
-| **AWS** | [Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) |
-| **AWS** | [Data Engineer – Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/) |
-| **AWS** | [Machine Learning Engineer – Associate](https://aws.amazon.com/fr/certification/certified-machine-learning-engineer-associate/) |
-
----
-
-Today: 2026-03-18 00:40:43 UTC
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrehanne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
